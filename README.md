@@ -22,7 +22,7 @@
 
 ## 📊 Моя статистика на GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cCoderAndFounder&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderAndFounder&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAndFounder&layout=compact&theme=radical)
 
