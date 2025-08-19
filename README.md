@@ -17,8 +17,8 @@
 
 ## 🚀 Мои проекты
 
-- [Проект 1](https://vpn.ghostlink.ru)
-- [Проект 2](https://ghostlink.ru)
+- [Проект 1 (Protexion Project Servers)]([https://vpn.ghostlink.ru](https://github.com/CoderAndFounder/Protexion-Project))
+- [Проект 2 (BlogFlow)]([https://ghostlink.ru](https://github.com/CoderAndFounder/BlogFlow))
 
 ---
 
@@ -33,10 +33,6 @@
 ## 🌐 Свяжитесь со мной
 
 - [Email](mailto:vitoskalete001@mail.ru)
-- [Telegram](https://t.me/jokker.05)
+- [Telegram](https://t.me/@jokker05)
 
 ---
-
-## ⚡ Интересный факт
-
-Я однажды написал скрипт на GLua, который автоматизировал создание сложных структур в Garry's Mod за считанные секунды! 🎮
