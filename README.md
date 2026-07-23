@@ -1,38 +1,47 @@
 # Привет, меня зовут Джамал! 👋
 
-Я **программист** с опытом разработки на различных языках и платформах. Мои основные навыки включают работу с **PHP**, **JavaScript**, **Lua**, **GLua** и **C#**. Я люблю создавать качественные и оптимизированные решения для игр, веб-приложений и многого другого.
+Я **программист-энтузиаст**, который превращает идеи в код. Мой путь в разработке начался с игровых модов и перерос в создание веб-приложений, игр и серверных решений. Я люблю писать чистый, производительный код и постоянно изучать новые технологии.
 
 ---
 
-## 🛠️ Мои навыки
+## 🛠️ Технологический стек
 
-| **Языки**       | **Фреймворки/Инструменты** | **Другое**                |
-|------------------|---------------------------|---------------------------|
-| PHP              | Laravel, Symfony          | Веб-разработка            |
-| JavaScript       | React, Node.js            | Frontend/Backend          |
-| Lua/GLua         | Garry's Mod, DarkRP       | Игровые моды и аддоны     |
-| C#               | .NET, Unity               | Разработка игр            |
-
----
-
-## 🚀 Мои проекты
-
-- [Проект 1 (Protexion Project Servers)]([https://vpn.ghostlink.ru](https://github.com/CoderAndFounder/Protexion-Project))
-- [Проект 2 (BlogFlow)]([https://ghostlink.ru](https://github.com/CoderAndFounder/BlogFlow))
+| **Направление** | **Технологии** |
+|-----------------|----------------|
+| **Языки программирования** | PHP, JavaScript, Lua, GLua, C# |
+| **Веб-фреймворки** | Laravel, Symfony, React, Node.js |
+| **Игровые движки/платформы** | Garry's Mod (GLua), Unity (C#) |
+| **Базы данных** | MySQL, PostgreSQL, SQLite |
+| **Инструменты** | Git, Docker, Composer, NPM, Webpack |
 
 ---
 
-## 📊 Моя статистика на GitHub
+## 🚀 Избранные проекты
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderAndFounder&show_icons=true&theme=radical)
+| Проект | Описание | Стек |
+|--------|----------|------|
+| **[Protexion Project](https://github.com/CoderAndFounder/Protexion-Project)** | Защищённая игровая инфраструктура с системой античит и администрирования | GLua, MySQL, Lua |
+| **[BlogFlow](https://github.com/CoderAndFounder/BlogFlow)** | Современная блог-платформа с адаптивным дизайном и системой комментариев | PHP, Laravel, JavaScript, Tailwind |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAndFounder&layout=compact&theme=radical)
+---
+
+## 📈 Статистика активности
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderAndFounder&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAndFounder&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌐 Свяжитесь со мной
+## 🌐 Контакты
 
-- [Email](mailto:vitoskalete001@mail.ru)
-- [Telegram](https://t.me/@jokker05)
+- 📧 **Email:** [vitoskalete001@mail.ru](mailto:vitoskalete001@mail.ru)
+- 💬 **Telegram:** [@jokker05](https://t.me/jokker05)
 
 ---
+
+> *"Код это поэзия, которую понимает машина."* ✨
