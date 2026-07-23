@@ -28,11 +28,11 @@
 ## 📈 Статистика активности
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderAndFounder&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=CoderAndFounder&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAndFounder&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CoderAndFounder&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
